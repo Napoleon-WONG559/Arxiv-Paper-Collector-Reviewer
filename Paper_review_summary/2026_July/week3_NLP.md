@@ -100,7 +100,7 @@ Links: [abstract](https://arxiv.org/abs/2607.03154v1), [PDF](https://arxiv.org/p
 - **Experimental design.** Tasks: The scope is missing-triple prediction across target and support knowledge-graph domains, especially low-resource target settings.. Proposed methods: DMKGC. Baselines: none identified. Metrics: none identified. Hardware/training/inference details: not reported; not reported; not reported.
 - **Main finding.** The abstract claims DMKGC improves performance, especially in low-resource scenarios; exact numbers require table verification.
 - **Datasets and sizes.** No dataset-size records were prepared for this detailed analysis.
-**Theoretical analysis.** No genuine theoretical analysis identified in the prepared analysis.
+- **Theoretical analysis.** No genuine theoretical analysis identified in the prepared analysis.
 - **Limitations and uncertainty.** Missing information: Exact dataset sizes, splits, and table-level metrics may be incomplete unless explicitly captured in dataset records.. Extraction limits: Plain-text extraction may distort tables, equations, symbols, and figure captions.. Overall confidence: 0.68.
 **Suggested human reading targets.** Check dataset/split sizes and main result tables against the PDF before citing exact values.
 
